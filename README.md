@@ -75,23 +75,6 @@ Financial-News-NLP-Analysis/
     ./setup_project.sh
     ```
 
-## Directory Structure
-
-- **data/**: Directory to store raw and processed data.
-  - **raw/**: Raw data files (e.g., JSON, CSV).
-  - **processed/**: Processed data files.
-- **notebooks/**: Jupyter notebooks for exploration and analysis.
-- **src/**: Source code.
-  - **data/**: Data collection scripts.
-  - **preprocessing/**: Text preprocessing scripts.
-  - **models/**: NLP and predictive models.
-  - **evaluation/**: Evaluation scripts.
-  - **utils/**: Utility functions.
-- **tests/**: Unit tests for the project.
-- **.gitignore**: Git ignore file to exclude unnecessary files from the repository.
-- **requirements.txt**: List of dependencies.
-- **README.md**: Project documentation.
-- **main.py**: Main script to run the project.
 
 ## License
 
