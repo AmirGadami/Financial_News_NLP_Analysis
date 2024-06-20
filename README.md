@@ -54,8 +54,6 @@ Financial-News-NLP-Analysis/
 ├── README.md # Project documentation
 └── main.py # Main script to run the project
 
-
-
 ## Getting Started
 
 1. **Clone the repository**:
