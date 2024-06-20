@@ -5,7 +5,7 @@
 This project is a comprehensive Natural Language Processing (NLP) system for analyzing financial news. It includes tasks such as tokenization, POS tagging, NER, syntax parsing, semantics, sentiment analysis, text classification, machine translation, information retrieval, text summarization, speech recognition and synthesis, and word embeddings. The project is designed to be modular and professional, showcasing various NLP concepts and techniques.
 
 ## Project Structure
-
+'''bash
 Financial-News-NLP-Analysis/
 │
 ├── data/ # To store raw and processed data
@@ -53,7 +53,7 @@ Financial-News-NLP-Analysis/
 ├── requirements.txt # List of dependencies
 ├── README.md # Project documentation
 └── main.py # Main script to run the project
-
+'''
 ## Getting Started
 
 1. **Clone the repository**:
